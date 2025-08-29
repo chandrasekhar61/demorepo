@@ -799,13 +799,13 @@
                             <a href="#"><em class="fas fa-tshirt"></em> Clothing</a>
                             <a href="#"><em class="fas fa-headphones"></em> Gadgets</a>
                             <a href="#"><em class="fas fa-shoe-prints"></em> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
+                            <a href="#"><em class="fas fa-watch"></em> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+                    <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
+                    <li><a href="#"><em class="fas fa-percent"></em> Deals</a></li>
+                    <li><a href="#"><em class="fas fa-info-circle"></em> About</a></li>
+                    <li><a href="#"><em class="fas fa-envelope"></em> Contact</a></li>
                 </ul>
             </nav>
             
